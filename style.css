@@ -1,0 +1,32 @@
+.main-nav {
+  margin-top: 20px;
+  border-radius: 5em;
+  list-style: none;
+  padding-left: 0;
+  background-color: greenyellow;
+}
+
+.main-nav__item {
+  display: inline-block;
+  margin-left: 90px;
+}
+
+.main-nav__item a {
+  color: black;
+  padding: 5px;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+.main-nav__item a:hover {
+  color: blue;
+}
+.main-nav__item a:active {
+  color: red;
+}
+
+.titulo {
+  color: green;
+  margin-left: 0px;
+  background-color: greenyellow;
+}
