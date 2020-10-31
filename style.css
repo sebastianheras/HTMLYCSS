@@ -25,6 +25,12 @@
   color: red;
 }
 
+body {
+  color: blue;
+  text-align: center;
+  font-family: Arial;
+}
+
 #container {
   width: 70%;
   padding: 1em;
